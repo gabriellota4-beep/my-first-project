@@ -1,6 +1,6 @@
 Example README structure:
 
-# Coding Club
+# My First Project
 
 ## Description
 The Coding Club website is a landing page for parents and children looking for a fun coding club for kids aged 8 to 18. The Coding club offers activities for kids to learn how to code from a young age.
@@ -12,7 +12,7 @@ The Coding Club website is a landing page for parents and children looking for a
 4. Contact section
 
 ## How to View the Project
-- [View the deployed website](https://username.github.io/codingclub/)
+- [View the deployed website](https://gabriellota4-beep.github.io/my-first-project/)
 
 ## Credits
 - The code for the social media icon animations was taken from [website name](https://username2.github.io/projectname/)
