@@ -6,4 +6,6 @@ body {
     width: 150px;
     margin: 2rem;
     display: block;
+}p {
+    font-weight: bold;
 }
