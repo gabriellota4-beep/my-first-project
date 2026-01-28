@@ -1,0 +1,9 @@
+body {
+    background-color: lightgrey;
+    background-image: url("../images/01-02-02_background-img.jpg");
+}
+.logo {
+    width: 150px;
+    margin: 2rem;
+    display: block;
+}
